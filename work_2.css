@@ -404,8 +404,8 @@ body {
     }
     .header ul {
       display: flex;
-      justify-content: left;
-      padding: 14px 0  14px 5%;
+      justify-content: center;
+      padding: 14px 0 14px 0;
       margin-left: 0;
     }
     .header ul li + li {
